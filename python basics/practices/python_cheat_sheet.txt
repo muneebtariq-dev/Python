@@ -1,0 +1,52 @@
+    = BASICS = 
+    
+    -> # used to comment or comment out exciting code
+    -> print('used to print anything on console')
+    -> x = 10  (integer)
+    -> y = 40.05 (floating object)
+    -> name = "muneeb" (string)
+    -> is_valid = True (Boolean)
+    -> type(x) (check type of the variable)
+    -> input('Enter: ') (to get user input)
+
+    = DATA TYPES =
+
+    -> Integars
+    -> Floating object
+    -> String
+    -> Boolean
+    -> Lists
+    -> Tuples
+    -> Sets
+    -> Dictionaries
+
+    = OPERATORS =
+    
+    -> Aritehmatic operators 
+       [ + | - | * | / | // | % | ** ]
+    -> Comparision operators 
+       [ == | != | > | < | >= | <= ]
+    -> Logical operators 
+       [ AND | OR | NOT]
+    -> Assignment operators
+       [ = | += | -= | *= | /= | %= | **= ]   
+
+    = LISTS METHODS =
+
+    -> list = []
+    -> list[0]
+    -> list.append(1) 
+    -> list.insert(1,10)
+    -> list.remove(1)
+    -> list.pop()
+    -> list.sort()
+    -> len(1st)
+
+    = TUPLES =
+
+    -> t = (1,2,3)
+    -> t[0]
+    -> t.count(2)
+    -> t.index(3)
+
+| == ------- = ------- == |

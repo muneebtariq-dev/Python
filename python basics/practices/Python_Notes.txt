@@ -1,0 +1,69 @@
+|=------------------=|= Python =|=----------------=|
+
+
+    Data types in Python:
+
+1- Integars
+2- String
+3- Boolean
+4- Nonetype
+
+    Data structures in Python:
+
+1- lists
+2- Tuples
+3- Dictionaries
+4- Sets 
+
+    Control flow of Python:
+
+  Strict Indentation
+
+    Simple Data collection in Python:
+
+1- Lists
+2- Dictionaries
+
+    Essential built-in functions:
+
+1- print()
+2- input("")
+3- len()
+
+
+
+    Web fundamentals with Python:
+
+1- Routing
+2- Request and Response objects
+3- API (Application Programming Interface)
+4- Database ORM
+
+    Machine Learning fundamentals in Python:
+
+1- Features(x) and Targets (y)
+2- Supervised learning 
+            &
+3- Unsupervised Learning
+4- Model Traning and fitting
+5- Over Fitting
+
+    Steps in Machine learning
+
+1- Import the Data
+2- Clean the Data
+3- Split data into traning and test sets
+4- Create a Model
+5- Train ther Model
+6- Make Predictions
+7- Evaluate and Improve
+
+    Important Python lybraries
+
+1- NumPY
+2- Pandas
+3- MatPlotlib
+4- Scikit-learn
+
+
+    | = -- - -- = |
